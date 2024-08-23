@@ -1,0 +1,20 @@
+body {background-color:rgb(18, 56, 14);
+font-family: Arial, Helvetica, sans-serif;
+color: antiquewhite;
+}
+ul {
+display: flex;
+justify-content: space-between;
+list-style-type: none;
+align-items: center;
+padding: 16px;
+
+}
+
+a {
+    color:cadetblue ;
+}
+
+h3 {
+    color: rgb(144, 197, 47);
+}
